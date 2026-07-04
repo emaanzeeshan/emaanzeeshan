@@ -76,11 +76,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emaanzeeshan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaanzeeshan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+https://github-readme-stats-git-masterrstaib.vercel.app/api?username=emaanzeeshan&show_icons=true&theme=tokyonight&hide_border=true
 ---
 
 <p align="center"><i>Still early in the journey....... but building, breaking, and learning along the way. 🔐💻</i></p>
